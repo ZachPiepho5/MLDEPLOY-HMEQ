@@ -1,2 +1,2 @@
 # MLDEPLOY-HMEQ
-Deploy my dmeq model
+Deploy my hmeq model
